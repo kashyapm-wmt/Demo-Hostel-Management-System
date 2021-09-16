@@ -1,2 +1,2 @@
-# Demo Hostel Management System !
+# Demo Hostel Management System 
 
